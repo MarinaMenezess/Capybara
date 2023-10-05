@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    gap: 400px;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    height: 2cm;
+}
+
+.paginas{
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+    display: flex;
+    gap: 10px;
+}
+
+.título{
+    width: 17vw;
+    height: 22vh;
+}
+
+.logotipo{
+    width: 90px;
+    height: 90px;
+}
+
+.capy{
+    width: 40vw;
+    height: 80vh;
+    margin-top: 80px;
+}
+
+.texto1{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 150px;
+    font-size: 20px;
+    width: 40vw;
+    height: 80vh;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+}
+
+.sessao1{
+    display: flex;
+    gap: 150px;
+}
+
+.item{
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    gap: 750px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.detalhe{
+    display: flex;
+    height: 50px;
+    width: 50px;
+}
+
+.produto{
+    height: 200px;
+    width: 200px;
+}
+
+.meme:hover{
+    border: 5px solid green;
+}
+
+.detal{
+    display: flex;
+    margin-top: 25px;
+    height: 50px;
+    width: 50px;
+}
+ul{
+    list-style: none;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.linha{
+    margin-top: 20px;
+    margin-left: 15px;
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    align-items: center;
+}
+.meme{
+    height: 250px;
+    width: 250px;
+}
+
+.sessao3{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.video{
+    align-items: center;
+    margin-left: 400px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+li{
+    display: flex;
+    justify-content: space-between;
+}
+
+.texto2{
+    display: inline;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+.sessoes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    height: 2cm;
+    gap: 400px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h2{
+    margin-left: 600px;
+}
+
+.header2{
+    display: flex;
+    gap: 400px;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    height: 2cm;
+}
+
+a{
+    color: black;
+}
+
+.sessoes2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    height: 2cm;
+    gap: 500px;
+    font-family: 'Josefin Sans', sans-serif;
+}
